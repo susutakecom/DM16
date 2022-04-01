@@ -20,6 +20,7 @@ X is degree [DEG], if x is 0, then y is angle [RAD].
 PI=355/113=3.14159292
 
 [Label:3]
-Cosine: y is the angle [DEG], X is the number of operations in the Taylor expansion.
+Cosine: y is the angle [DEG], X is the number of operations in the Taylor expansion
+
 sinx=±( (1-(cosx)^2)[root] )
 tanx=sinx/cosx
